@@ -1,27 +1,36 @@
 ---
-title: "Manuscript Title"
+title: "A Picture Isn't Worth 1,000 SNPs: Effect of User-Submitted Photographs on Ancestry Estimates from Direct-to-Consumer Canine Genetic Tests"
 keywords:
   - markdown
   - publishing
   - manubot
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+  - github: rando2
+    name: Halie M. Rando
+    initials: HMR
+    orcid: 0000-0001-7688-1770
+    email: halie.rando@cuanschutz.edu
+    contributions:
     affiliations:
-      - Department of Something, University of Whatever
+      - Department of Biomedical Informatics, University of Colorado Anschutz School of Medicine, Aurora, Colorado, United States of America
+    coi:
+      string: None
+      lastapproved: '2023-03-07'
     funders:
-      - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
+      - the Gordon and Betty Moore Foundation (GBMF 4552)
+  - github: cgreene
+    name: Casey S. Greene
+    initials: CSG
+    orcid: 0000-0001-8713-9213
+    twitter: GreeneScientist
+    email: greenescientist@gmail.com
+    contributions:
     affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - Department of Biomedical Informatics, University of Colorado Anschutz School of Medicine, Aurora, Colorado, United States of America
+    coi:
+      string: None
+      lastapproved: '2021-01-20'
+    funders:
+      - the Gordon and Betty Moore Foundation (GBMF 4552)
     corresponding: true
