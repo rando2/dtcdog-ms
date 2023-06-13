@@ -1,36 +1,41 @@
 ---
 title: "Is a Picture Worth 1,000 SNPs?: Effects of User-Submitted Photographs on Ancestry Estimates from Direct-to-Consumer Canine Genetic Tests"
 keywords:
-  - markdown
-  - publishing
-  - manubot
+  - direct-to-consumer genetic testing
+  - canine genetics
+  - dog breeds
 lang: en-US
 authors:
   - github: rando2
-    name: Halie M. Rando
+    name: Halie M. Rando, PhD
     initials: HMR
     orcid: 0000-0001-7688-1770
     email: halie.rando@cuanschutz.edu
-    contributions:
     affiliations:
       - Department of Biomedical Informatics, University of Colorado Anschutz School of Medicine, Aurora, Colorado, United States of America
-    coi:
-      string: None
-      lastapproved: '2023-03-07'
     funders:
       - the Gordon and Betty Moore Foundation (GBMF 4552)
+  - name: Kiley Graim, PhD
+    initials: KG
+    orcid: 0000-0002-4569-8444
+    email: kgraim@ufl.edu
+    affiliations:
+      -Department of Computer and Information Science and Engineering, University of Florida, Gainesville, Florida, United States of America 
+  - name: Greg Hampikian, PhD
+    initials: GH
+    orcid: 0000-0002-0290-7824
+    email: greghampikian@boisestate.edu
+    affiliations:
+      - Department of Biological Sciences, Boise State University, Boise, Idaho, United States of America
+      - Department of Criminal Justice, Boise State University, Boise, Idaho, United States of America
   - github: cgreene
-    name: Casey S. Greene
+    name: Casey S. Greene, PhD
     initials: CSG
     orcid: 0000-0001-8713-9213
     twitter: GreeneScientist
     email: greenescientist@gmail.com
-    contributions:
     affiliations:
       - Department of Biomedical Informatics, University of Colorado Anschutz School of Medicine, Aurora, Colorado, United States of America
-    coi:
-      string: None
-      lastapproved: '2021-01-20'
     funders:
       - the Gordon and Betty Moore Foundation (GBMF 4552)
     corresponding: true
