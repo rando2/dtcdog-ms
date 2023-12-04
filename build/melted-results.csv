@@ -1,0 +1,81 @@
+﻿Breed,Condition,Breed_Hit,Embark,Wisdom Panel,Orivet,DNA My Dog,Darwin's Ark,Accu-Metrics,NASNet
+Beagle,Control,Beagle,1,1,0.9009,0.9412,0.909,,0.0449
+Beagle,Control,American Foxhound,,,0.0666,,,,
+Beagle,Control,Treeing Walker Coonhound,,,0.0171,,,,
+Beagle,Control,English Foxhound,,,0.0154,,,,
+Beagle,Control,Rottweiler,,,,0.0588,,,
+Beagle,Control,Weimaraner,,,,,0.028,,0.9551
+Beagle,Control,Dachshund,,,,,0.029,,
+Beagle,Control,Unknown,,,,,0.034,,
+Beagle,Control,Poodle,,,,,,0.5,
+Beagle,Control,Bichon Frise,,,,,,0.5,
+Border Terrier,Control,Border Terrier,1,1,1,1,1,,1
+Golden Retriever,Control,Golden Retriever,1,1,,1,1,0.4405,1
+Golden Retriever,Treatment,Golden Retriever*,,,1,,,,
+Golden Retriever,Control,Labrador Retriever,,,,,,0.4405,
+Golden Retriever,Control,Staffordshire Bull Terrier,,,,,,0.119,
+Pomeranian,Control,Pomeranian,1,1,1,1,1,0.4319,0.9815
+Pomeranian,Control,Chihuahua,,,,,,0.1167,0.0185
+Pomeranian,Control,Lhasa Apso,,,,,,0.4319,
+Pomeranian,Control,Shih Tzu,,,,,,0.0195,
+Shetland Sheepdog,Control,Shetland Sheepdog,1,1,1,1,1,,0.8864
+Shetland Sheepdog,Control,Boxer,,,,,,0.854,
+Shetland Sheepdog,Control,Poodle,,,,,,0.146,
+Shetland Sheepdog,Control,Collie,,,,,,,0.1136
+Shih Tzu,Control,Shih Tzu,0.91,1,0.8095,0.9412,1,,0.0672
+Shih Tzu,Control,Unknown,0.09,,,,,,
+Shih Tzu,Control,Lhasa Apso,,,0.0407,0.0588,,,0.913
+Shih Tzu,Control,Poodle,,,0.0926,,,,
+Shih Tzu,Control,Elo,,,0.0572,,,,
+Shih Tzu,Control,Tibetan terrier,,,,,,,0.0198
+Brittany,Treatment,Brittany,1,1,1,1,,,
+Brittany,Treatment,Chinese Crested,,,,,,1,
+Brittany,Treatment,Australian Terrier,,,,,,,0.0497
+Brittany,Treatment,Chihuahua,,,,,,,0.0483
+Brittany,Treatment,Xoloitzcuintli,,,,,,,0.3076
+Brittany,Treatment,Papillon,,,,,,,0.1834
+Brittany,Treatment,Silky Terrier,,,,,,,0.2
+Brittany,Treatment,Yorkshire Terrier,,,,,,,0.211
+Chinese Crested,Treatment,Chinese Crested,1,1,1,1,1,,
+Chinese Crested,Treatment,Brittany,,,,,,,0.701
+Chinese Crested,Treatment,Border Collie,,,,,,0.3868,
+Chinese Crested,Treatment,Boykin Spaniel,,,,,,0.1045,
+Chinese Crested,Treatment,German Shepherd Dog,,,,,,0.1045,
+Chinese Crested,Treatment,Golden Retriever,,,,,,0.3868,
+Chinese Crested,Treatment,Labrador Retriever,,,,,,0.0174,
+Chinese Crested,Treatment,English Setter,,,,,,,0.299
+German Shorthaired Pointer,Treatment,German Shorthaired Pointer,1,1,0.82,0.5882,0.692,,
+German Shorthaired Pointer,Treatment,Italian Greyhound,,,,,,,1
+German Shorthaired Pointer,Treatment,Drever,,,0.08,,,,
+German Shorthaired Pointer,Treatment,Vizsla,,,0.05,,0.062,,
+German Shorthaired Pointer,Treatment,Large Munsterlander,,,0.05,,,,
+German Shorthaired Pointer,Treatment,Catahoula Leopard Dog,,,,0.2059,,,
+German Shorthaired Pointer,Treatment,German Shepherd Dog,,,,0.2059,,,
+German Shorthaired Pointer,Treatment,Unknown,,,,,0.2,,
+German Shorthaired Pointer,Treatment,English Setter,,,,,0.046,,
+German Shorthaired Pointer,Treatment,Greyhound,,,,,,0.4319,
+German Shorthaired Pointer,Treatment,Hungarian Greyhound,,,,,,0.4319,
+German Shorthaired Pointer,Treatment,Staffordshire Bull Terrier,,,,,,0.1167,
+German Shorthaired Pointer,Treatment,Whippet,,,,,,0.0195,
+Italian Greyhound,Treatment,Italian Greyhound,1,1,1,1,1,,
+Italian Greyhound,Treatment,German Shorthaired Pointer,,,,,,0.5,1
+Italian Greyhound,Treatment,English Pointer,,,,,,0.5,
+Bulldog,Treatment,Bulldog,1,1,1,0.8205,1,,
+Bulldog,Treatment,Labrador Retriever,,,,,,,0.944
+Bulldog,Treatment,Wolfdog,,,,0.1795,,,
+Bulldog,Treatment,Dachshund,,,,,,0.4405,
+Bulldog,Treatment,Norwegian Elkhound,,,,,,0.4405,
+Bulldog,Treatment,Maltese,,,,,,0.119,
+Bulldog,Treatment,Chesapeake Bay Retriever,,,,,,,0.056
+Labrador Retriever,Treatment,Labrador Retriever,0.945,1,0.8872,1,0.941,,
+Labrador Retriever,Treatment,Bulldog,,,,,,,
+Labrador Retriever,Treatment,American Foxhound,0.055,,,,,,
+Labrador Retriever,Treatment,Collie,,,0.0837,,,,
+Labrador Retriever,Treatment,McNab,,,0.0291,,,,
+Labrador Retriever,Treatment,Unknown,,,,,0.029,,
+Labrador Retriever,Treatment,Vizsla,,,,,0.03,,
+Labrador Retriever,Treatment,French Bulldog,,,,,,,0.06362
+Labrador Retriever,Treatment,Bullmastiff,,,,,,,0.06639
+Labrador Retriever,Treatment,Irish Wolfhound,,,,,,,0.11203
+Labrador Retriever,Treatment,Pug,,,,,,,0.73721
+Labrador Retriever,Treatment,Staffordshire Bull Terrier,,,,,,,0.02075
