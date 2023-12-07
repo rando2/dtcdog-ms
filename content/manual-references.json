@@ -1,22 +1,209 @@
 [
-{
-  "id": "url:https://github.com/manubot/rootstock",
-  "type": "webpage",
-  "URL": "https://github.com/manubot/rootstock",
-  "title": "manubot/rootstock GitHub repository",
-  "container-title": "GitHub",
-  "issued": {
-    "date-parts": [
-      [
-        2019
+  {
+    "publisher": "Public Library of Science (PLoS)",
+    "issue": "10",
+    "DOI": "10.1371/journal.pgen.1007648",
+    "type": "article-journal",
+    "page": "e1007648",
+    "source": "Crossref",
+    "title": "Direct-to-consumer DNA testing of 6,000 dogs reveals 98.6-kb duplication associated with blue eyes and heterochromia in Siberian Huskies",
+    "volume": "14",
+    "author": [
+      {
+        "given": "Petra E.",
+        "family": "Deane-Coe"
+      },
+      {
+        "given": "Erin T.",
+        "family": "Chu"
+      },
+      {
+        "given": "Andrea",
+        "family": "Slavney"
+      },
+      {
+        "given": "Adam R.",
+        "family": "Boyko"
+      },
+      {
+        "given": "Aaron J.",
+        "family": "Sams"
+      }
+    ],
+    "container-title": "PLOS Genetics",
+    "language": "en",
+    "editor": [
+      {
+        "given": "Gregory S.",
+        "family": "Barsh"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          10,
+          4
+        ]
       ]
-    ]
+    },
+    "URL": "https://doi.org/gfdqff",
+    "container-title-short": "PLoS Genet",
+    "PMCID": "PMC6171790",
+    "PMID": "30286082",
+    "id": "1CDZjpw5n"
   },
-  "author": [
-    {
-      "given": "Daniel",
-      "family": "Himmelstein"
+  {
+    "publisher": "International Conference on Biomedical Ontology",
+    "id": "icbo-vbo",
+    "type": "article-journal",
+    "title": "Classifying Animal Breeds with the Vertebrate Breed Ontology (VBO)",
+    "author": [
+      {
+        "given": "Sabrina",
+        "family": "Toro"
+      },
+      {
+        "given": "Nicholas",
+        "family": "Matentzoglu"
+      },
+      {
+        "given": "Kathleen R.",
+        "family": "Mullen"
+      },
+      {
+        "given": "Nicole",
+        "family": "Vasilevsky"
+      },
+      {
+        "given": "Halie M.",
+        "family": "Rando"
+      },
+      {
+        "given": "Melissa",
+        "family": "Haendel"
+      },
+      {
+        "given": "Christopher J.",
+        "family": "Mungall"
+      },
+      {
+        "given": "Zhi-Liang",
+        "family": "Hu"
+      },
+      {
+        "given": "Gregoire",
+        "family": "Leroy"
+      },
+      {
+        "given": "Imke",
+        "family": "Tammen"
+      },
+      {
+        "given": "Frank W.",
+        "family": "Nicholas"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          9,
+          28
+        ]
+      ]
+    },
+    "URL": "https://icbo-conference.github.io/icbo2022/papers/ICBO-2022_paper_1882.pdf"
+  },
+  {
+    "id": "ALyYdaeN",
+    "type": "webpage",
+    "title": "Fédération Cynologique Internationale",
+    "URL": "https://www.fci.be/en/",
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          6,
+          28
+        ]
+      ]
     }
-  ]
-}
+  },
+  {
+    "type": "webpage",
+    "id": "orivet-breeds",
+    "title": "Orivet Genetic Pet Care: List of Breeds",
+    "URL": "https://orivet.com/media/c4ca4238a0b923820dcc509a6f75849b/List%20of%20breeds.pdf",
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          6,
+          28
+        ]
+      ]
+    }
+  },
+  {
+    "type": "webpage",
+    "id": "realtor-insurance",
+    "title": "Do Insurance Companies Discriminate Against Your Dog?",
+    "URL": "https://www.realtor.com/advice/buy/insurance-companies-discriminate-against-your-dog",
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          6,
+          28
+        ]
+      ]
+    },
+    "author": [
+     {
+        "given": "Craig",
+        "family": "Donofrio"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          11,
+          17
+        ]
+      ]
+    }
+  },
+  {
+    "type": "webpage",
+    "id": "valuepenguin",
+    "title": "Restricted Dog Breeds for Home Insurance",
+    "URL": "https://www.valuepenguin.com/homeowners-insurance-restricted-dog-breeds",
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          6,
+          28
+        ]
+      ]
+    },
+    "author": [
+     {
+        "given": "Roslyn",
+        "family": "Ayers"
+      }
+    ],
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          5,
+          3
+        ]
+      ]
+    }
+  }
 ]
