@@ -205,5 +205,30 @@
         ]
       ]
     }
+  },
+  {
+   "type": "report",
+   "id": "AKCCurrentState",
+   "title": "Review of the Current State of Genetic Testing - A Living Resource",
+   "URL": "https://www.akcchf.org/educational-resources/library/articles/CANINE_GENETIC_TESTING_07-28-2020_FINAL_with-links.pdf",
+   "author": [
+     {
+        "given": "Liza",
+        "family": "Gershony"
+      },
+     {
+        "given": "Anita",
+        "family": "Oberbauer"
+      },
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          7,
+          28
+        ]
+      ]
+    }
   }
 ]
