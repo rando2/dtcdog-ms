@@ -1,5 +1,5 @@
 ---
-title: "Is a Picture Worth 1,000 SNPs?: Effects of User-Submitted Photographs on Ancestry Estimates from Direct-to-Consumer Canine Genetic Tests"
+title: "Many direct-to-consumer canine genetic tests can identify the breed of purebred dogs"
 keywords:
   - direct-to-consumer genetic testing
   - canine genetics
@@ -13,6 +13,7 @@ authors:
     email: halie.rando@cuanschutz.edu
     affiliations:
       - Department of Biomedical Informatics, University of Colorado Anschutz School of Medicine, Aurora, Colorado, United States of America
+      - Department of Computer Science, Smith College, Northampton, Massachusetts, United States of America
     funders:
       - the Gordon and Betty Moore Foundation (GBMF 4552)
   - name: Kiley Graim, PhD
@@ -32,7 +33,7 @@ authors:
     initials: CSG
     orcid: 0000-0001-8713-9213
     twitter: GreeneScientist
-    email: greenescientist@gmail.com
+    email: casey.s.greene@cuanschutz.edu
     affiliations:
       - Department of Biomedical Informatics, University of Colorado Anschutz School of Medicine, Aurora, Colorado, United States of America
     funders:
