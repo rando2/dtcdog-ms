@@ -230,5 +230,92 @@
         ]
       ]
     }
+  },
+  {
+    "id": "huskyLab",
+    "type": "webpage",
+    "title": "The Shelter Told Them Husky/Lab, But the Truth May Shock You! (Sitka's results from Embark AND Orivet for comparison)",
+    "URL": "https://www.reddit.com/r/DoggyDNA/comments/lgbikq/the_shelter_told_them_huskylab_but_the_truth_may/",
+   "author": [
+     {
+        "family": "thealmightybookwyrm"
+      }
+    ],    
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          2,
+          9
+        ]
+      ]
+    }
+    "accessed": {
+      "date-parts": [
+        [
+          "2023", 
+          12,
+          28
+        ]
+      ]
+    }   
+  },
+  {
+    "id": "dmdVsEmbark",
+    "type": "webpage",
+    "title": "DNA my dog v. Embark results",
+    "URL": "https://www.reddit.com/r/DoggyDNA/comments/psij1u/dna_my_dog_v_embark_results/",
+   "author": [
+     {
+        "family": "rappingpaydaybar"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          9,
+          21
+        ]
+      ]
+    }
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          12,
+          28
+        ]
+      ]
+    }  
+  },
+  {
+    "id": "dmdVsEmbark2",
+    "type": "webpage",
+    "title": "DNA My Dog vs Embark: Paid for an Embark test after DNA My Dog seemed totally bogus. What a difference!",
+    "URL": "https://www.reddit.com/r/DoggyDNA/comments/p8dvmc/dna_my_dog_vs_embark_paid_for_an_embark_test/",
+   "author": [
+     {
+        "family": "shadowpuppet2019"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          8,
+          20
+        ]
+      ]
+    }
+    "accessed": {
+      "date-parts": [
+        [
+          "2023",
+          12,
+          28
+        ]
+      ]
+    }
   }
 ]
